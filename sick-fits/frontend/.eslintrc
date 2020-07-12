@@ -12,6 +12,7 @@
       {
         "extensions": [".js", ".jsx"]
       }
-    ]
+    ],
+    "linebreak-style": ["error", "unix"]
   }
 }
